@@ -9,7 +9,9 @@ public class Main {
        PotentialEmployee employee2 = new PotentialEmployee ("Mia","Tim","Mia.Tim@gmail.com",86758);
        PotentialEmployee employee3 = new PotentialEmployee("Bob","Ring","bob.ring@gmail.com",6);
 
-       
+        System.out.println(employee1);
+        System.out.println(employee2);
+        System.out.println(employee3);
 
     }
 }
